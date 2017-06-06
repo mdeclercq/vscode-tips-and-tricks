@@ -143,7 +143,7 @@ Check out the full [documentation](http://code.visualstudio.com/docs/customizati
 
 ## Change your theme
 
-Open the command palatte and type "themes". You can install more themes from the extension Marketplace. 
+Open the command palette and type "themes". You can install more themes from the extension Marketplace. 
 
 ![Preview themes](/media/PreviewThemes.gif)
 
@@ -170,7 +170,7 @@ Are you used to keyboard shortcuts from another editor? You can install a Keymap
 
 ### Customize your keyboard shortcuts
 
-Open the command palatte and type "Keyboard Shortcuts." You can now add your own keybindings in the file on the right. 
+Open the command palette and type "Keyboard Shortcuts." You can now add your own keybindings in the file on the right. 
 
 ![customize keyboard shortcuts](/media/KeyboardShortcuts.gif)
 
@@ -274,7 +274,7 @@ For those settings you only want for specific languages.
 }
 ```
 
-> **Tip:** You can find the language ID by typing in the command palatte "Configure language specific settings"
+> **Tip:** You can find the language ID by typing in the command palette "Configure language specific settings"
 
 ![language based settings](/media/lang-based-settings.png)
 
